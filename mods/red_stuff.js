@@ -5,6 +5,13 @@ elements.red_stuff = {
     state: "solid"
 }
 
+elements.blue_stuff = {
+    color: "#0000ff",
+    behavior: behaviors.LIQUID,
+    category: "Modded_Elements",
+    state: "solid"
+}
+
 elements.THE_MAKER_up = {
     color: "#0a3d0c",
     behavior: [
